@@ -21,7 +21,7 @@
             <p>Etudiant en BTS Services Informatiques aux Organisation spécialité Solutions d'Infrastructures Systèmes et Réseau. Je suis passionné de TI et de sécurité informatique. J’aime le travail d’équipe et apprécie le contact client. Les challenges
                 professionnels garantissent ma motivation et mon énergie en entreprise. Mon aisance orale me permet de m’adapter à mon public.
             </p>
-            <a href="https://drive.google.com/file/d/1XNff1KbEqh7r9R5hJ2VZfCVgwUgM2oLb/view?usp=sharing" download>Télécharger mon CV</a>
+            <a href="https://drive.google.com/file/d/1CWskl-RSP2mR-r1thNMMDkHQ0cEfi5Ze/view?usp=sharing" download>Télécharger mon CV</a>
         </div>
         <div class="contact">
             <h2>Informations de contact</h2>
