@@ -1,0 +1,156 @@
+@font-face{                     /*DEBUT DEFINITION POLICE D'ECRITURE*/
+    font-family: "font";
+    src: url('font.ttf')
+}                       /*FIN DEFINITION POLICE D'ECRITURE*/
+
+
+
+* {                     /*DEBUT SUPPRESSION DES BARRES BLANCHES*/
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+                          /*FIN SUPPRESSION DES BARRES BLANCHES*/
+
+
+
+html{                     /*DEBUT GESTION TAILLE PAGE HTML*/
+    height: 100%;
+}
+                              /*FIN GESTION TAILLE PAGE HTML*/
+
+
+
+.header {                     /*DEBUT MISE EN PLACE HEADER + MISE EN FORME BALISE H1, BALISE H2 ET BALISE A*/
+
+    padding: 2.01%;
+    background: black;
+    color: black;
+    font-size: 250%;
+    font-family: 'font', sans-serif;
+}
+.header h1{
+    text-align: center;
+    color: white;
+}
+.header p{
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+}
+.header a:hover{             
+    background-color: lightgrey;
+    color: black;
+}
+                             /*FIN MISE EN PLACE HEADER + MISE EN FORME BALISE H1, BALISE H2 ET BALISE A*/
+
+
+
+body{                        /*DEBUT GESTION DU BODY*/
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100%;
+}
+                             /*FIN GESTION DU BODY*/
+
+
+
+.texte {                     /*DEBUT GESTION DU TEXTE + GESTION BALISE H2 ET BALISE P*/
+    font-family: 'font', sans-serif;
+    color: black;
+    padding: 5%;
+    display: block;
+    text-align: center;
+}
+
+.texte h2{
+    text-decoration: underline;
+    font-size: 250%;
+}
+.texte p{
+    font-size: 200%;
+    font-weight: bolder;
+}
+                             /*FIN GESTION DU TEXTE + GESTION BALISE H2 ET BALISE P*/
+
+
+.navbar{                     /*DEBUT MISE EN PLACE NAVBAR + GESTION DE L'EFFET DES LIENS*/
+    font-family: 'font', sans-serif;
+    color: black;
+    float: none;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.profile, .cursus, .skills, .project, .techno-watching {
+    background-color: transparent;
+    width: 256px;
+    height: 256px;
+    perspective: 1000px;
+    font-family: 'font', sans-serif;
+}
+
+.profile-interne, .cursus-interne, .skills-interne, .project-interne, .techno-watching-interne {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.profile:hover .profile-interne, .cursus:hover .cursus-interne, .skills:hover .skills-interne, .project:hover .project-interne, .techno-watching:hover .techno-watching-interne {
+    transform: rotateY(180deg);
+}
+
+.profile-facade, .cursus-facade, .skills-facade, .project-facade, .techno-watching-facade {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    color: black;
+}
+
+.profile-arriere, .cursus-arriere, .skills-arriere, .project-arriere, .techno-watching-arriere {
+    position: sticky;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: black;
+    color: white;
+    transform: rotateY(180deg);
+}                     
+
+                                /*FIN MISE EN PLACE NAVBAR + GESTION DE L'EFFET DES LIENS*/
+
+
+
+.footer {                       /*DEBUT MISE EN PLACE D'UN FOOTER + MISE EN FORME DES LIENS*/
+    position: sticky;
+    width:100%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.footer-content-center{
+    display: flex;
+    padding: 0;
+    justify-content: center;
+}
+
+.github:hover, .twitter:hover, .instagram:hover, linkedin:hover {
+    background-color:lightgray;
+}
+                                /*FIN MISE EN PLACE D'UN FOOTER + MISE EN FORME DES LIENS*/
