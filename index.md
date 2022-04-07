@@ -135,7 +135,7 @@
                 <h4>2011 - 2014</h4>
             </div>
             <div class="exp-desc">
-                <p>blablabla</p>
+                <!--<p>blablabla</p>-->
             </div>
         </div>
     </section>
