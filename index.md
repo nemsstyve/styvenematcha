@@ -1,37 +1,227 @@
-## Welcome to GitHub Pages
+<html lang="FR">
 
-You can use the [editor on GitHub](https://github.com/nemsstyve/styvenematcha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <title>CV de Styve NEMATCHA</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="cv.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <header>
+        <h1>CV de Styve NEMATCHA</h1>
+    </header>
 
-### Markdown
+    <section>
+        <div class="photo">
+            <img src="img/Photo_styve.png" alt="Ma photo de profil">
+        </div>
+        <div class="prez">
+            <h2>Qui suis-je ?</h2>
+            <p>Etudiant en BTS Services Informatiques aux Organisation spécialité Solutions d'Infrastructures Systèmes et Réseau. Je suis passionné de TI et de sécurité informatique. J’aime le travail d’équipe et apprécie le contact client. Les challenges
+                professionnels garantissent ma motivation et mon énergie en entreprise. Mon aisance orale me permet de m’adapter à mon public.
+            </p>
+            <a href="https://drive.google.com/file/d/1XNff1KbEqh7r9R5hJ2VZfCVgwUgM2oLb/view?usp=sharing" download>Télécharger mon CV</a>
+        </div>
+        <div class="contact">
+            <h2>Informations de contact</h2>
+            <div class="contact-flex">
+                <p>Nom : </p>
+                <p>NEMATCHA Styve Christopher </p>
+            </div>
+            <div class="contact-flex">
+                <p>Adresse : </p>
+                <p>2 rue Edmond Dantès - 78280 Guyancourt</p>
+            </div>
+            <div class="contact-flex">
+                <p>Téléphone :</p>
+                <p>07 76 01 75 17</p>
+            </div>
+            <div class="contact-flex">
+                <p>Mail : </p>
+                <p><a href="mailto:nematchastyve@mail.com">nematchastyve@mail.com</a></p>
+            </div>
+            <div class="social">
+                <a href="https://www.facebook.com/Alkashistyve"><img src="img/facebook-logo.png" class="Facebook" alt="Icône Facebook" width="32" height="32" onmouseover="this.src='img/formation-facebook-complete.png'" onmouseout="this.src='img/facebook-logo.png'"></a>
+                <a href="https://github.com/nemsstyve"><img src="img/github-wh.png" class="github" alt="Icône Github" width="32" height="32" onmouseover="this.src='img/github-bk.png'" onmouseout="this.src='img/github-wh.png'"></a>
+                <a href="https://git.ytrack.learn.ynov.com/SNEMATCHA"><img src="img/git.ytrack.jpg" class="Ytrack" alt="Icône Ytrack" width="32" height="32" onmouseover="this.src='img/téléchargé.jpg'" onmouseout="this.src='img/git.ytrack.jpg'"></a>
+                <a href="https://www.instagram.com/nemstyve/"><img src="img/insta.jpg" class="instagram" alt=" Icône Instgram " width="32" height="32" onmouseover="this.src='img/ig-bk.png'" onmouseout="this.src='img/insta.jpg'"></a>
+                <a href="https://www.linkedin.com/in/styve-nematcha/"><img src="img/LIN.png" class="linkedin" alt=" Icône LinkedIn " width="32" height="32" onmouseover="this.src='img/linkedin-wh.png'" onmouseout="this.src='img/LIN.png'"></a>
+            </div>
+        </div>
+    </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <section>
+        <h2>Expériences professionnelles</h2>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/orange.png" alt="Logo d'Orange Cameroun"></a>
+            </div>
+            <div class="exp-info">
+                <h3>Superviseur des Ventes</h3>
+                <h4>Orange Cameroun</h4>
+                <h4>Août 2016 - Novembre 2019</h4>
+            </div>
+            <div class="exp-desc">
+                <p>Encadrer son équipe de commercial. Prendre en charge de leur recruter, de leur former et de leur accompagner. Fixe un objectif individuel pour chaque commercial et met en place un système afin récompenser financièrement ou physiquement
+                    dans le but de motiver chaque commercial.
+                </p>
+            </div>
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/orange.png" alt="Logo d'Orange Cameroun'"></a>
+            </div>
+            <div class="exp-info">
+                <h3>Sage ADMINISTRATEUR SISR</h3>
+                <h4>Orange Cameroun</h4>
+                <h4>Janvier 2020 - Octobre 2020</h4>
+            </div>
+            <div class="exp-desc">
+                <p>Installation des postes informatiques dans l'entreprise et le support. La gestion du parc informatique. L'installation des logiciels et leur mise à jour. La sécurité Réaliser une veille technique constante pour proposer les meilleures
+                    solutions. Faire évoluer le système pour le rendre toujours plus efficace et sûr. Maintenance du Parc Informatique, Assistance Utilisateurs Câblage, Configuration matériel administrable, suivre l'implantation des équipements, Formaliser
+                    les besoins des utilisateurs pour améliorer le système.
+                </p>
+            </div>
+        </div>
+    </section>
 
-```markdown
-Syntax highlighted code block
+    <section>
+        <h2>Formation</h2>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/ynov.png" alt="Logo Paris Ynov Campus"></a>
+            </div>
+            <div class="exp-info">
+                <h3>Bac +1 Expert Informatique & Systèmes Informatiques</h3>
+                <h4>2021 - 2022</h4>
+            </div>
+            <div class="exp-desc">
+                <p>formation généraliste et théorique qui permet d'acquérir une solide culture informatique dans de nombreux domaines (algorithme, programmation, logique, algèbre) ainsi que des connaissances pratiques.</p>
+            </div>
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/Lasalle.png" alt="Logo EST LASALLE"></a>
+            </div>
+            <div class="exp-info">
+                <h3>BTS en Système & réseau</h3>
+                <h4>2017 - 2019</h4>
+            </div>
+            <div class="exp-desc">
+                <p>spécialiste des environnements informatiques. Il participe à la production et à la fourniture de services en réalisant ou en adaptant des solutions d'infrastructure et en assurant le fonctionnement optimal des équipements.</p>
+            </div>
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/Université.jpg" alt="Logo Université de Douala"></a>
+            </div>
+            <div class="exp-info">
+                <h3>BTS en Physyque Et Application</h3>
+                <h4>2014 - 2016</h4>
+            </div>
+            <div class="exp-desc">
+                <p>Acquisition d’une double compétence en physique générale et en physique appliquée et instrumentale. Découverte du monde de l’entreprise grâce à un stage en entreprise au semestre 6. Possibilité d’intégrer différents masters professionnels
+                    et écoles d’ingénieurs (IMT, Polytech…).
+                </p>
+            </div>
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <a href=""><img src="img/coolège.png" alt="Logo ST LAURENT"></a>
+            </div>
+            <div class="exp-info">
+                <h3>Bac S option Maths</h3>
+                <h4>2011 - 2014</h4>
+            </div>
+            <div class="exp-desc">
+                <p>blablabla</p>
+            </div>
+        </div>
+    </section>
 
-# Header 1
-## Header 2
-### Header 3
+    <section>
+        <h2>Compétences</h2>
+        <h3 class="h3gauche">Professionnelles</h3>
+        <div class="comp">
+            <p>Administration Réseaux et système</p>
+            <div class="conteneur-barre"><span class="barre c100"></span></div>
+        </div>
+        <div class="comp">
+            <p>Support & Maintenance Informatique</p>
+            <div class="conteneur-barre"><span class="barre c100"></span></div>
+        </div>
+        <div class="comp">
+            <p>HTML / CSS</p>
+            <div class="conteneur-barre"><span class="barre c90"></span></div>
+        </div>
+        <div class="comp">
+            <p>PHP / MySQL</p>
+            <div class="conteneur-barre"><span class="barre c70"></span></div>
+        </div>
+        <div class="comp">
+            <p>Golang</p>
+            <div class="conteneur-barre"><span class="barre c80"></span></div>
+        </div>
+        <div class="comp">
+            <p>JavaScript</p>
+            <div class="conteneur-barre"><span class="barre c70"></span></div>
+        </div>
+        <div class="comp">
+            <p>Word / Excel / PowerPoint - 365</p>
+            <div class="conteneur-barre"><span class="barre c100"></span></div>
+        </div>
+        <h3 class="h3gauche">Personnelles</h3>
+        <div class="comp2">
+            <p>Ethique & curieux</p>
+            <p>95%</p>
+            <div class="conteneur-barre2"><span class="barre c95"></span></div>
+        </div>
+        <div class="comp2">
+            <p>Créativité</p>
+            <p>95%</p>
+            <div class="conteneur-barre2"><span class="barre c95"></span></div>
+        </div>
+        <div class="comp2">
+            <p>Travail d’équipe </p>
+            <p>95%</p>
+            <div class="conteneur-barre2"><span class="barre c95"></span></div>
+        </div>
+        <div class="comp2">
+            <p>Adaptabilité</p>
+            <p>100%</p>
+            <div class="conteneur-barre2"><span class="barre c100"></span></div>
+        </div>
+    </section>
 
-- Bulleted
-- List
+    <section>
+        <h2>Centres d'intérêt</h2>
+        <figure class="interet">
+            <img src="img/foot.jpg" alt="Football">
+            <figcaption>Football</figcaption>
+        </figure>
+        <figure class="interet">
+            <img src="img/cuisinier.jpg" alt="Cuisine">
+            <figcaption>Cuisine</figcaption>
+        </figure>
+        <figure class="interet">
+            <img src="img/images.jpg" alt="Gaming">
+            <figcaption>Jeux vidéos</figcaption>
+        </figure>
+        <figure class="interet">
+            <img src="img/Littérature.jpg" alt="Littérature">
+            <figcaption>Littérature</figcaption>
+        </figure>
+        <figure class="interet">
+            <img src="img/Musique.png" alt="Musique">
+            <figcaption>Musique</figcaption>
+        </figure>
+    </section>
+    <footer>
+        <p><a href="https://github.com/nemsstyve">©Styve NEMATCHA</a> 2022</p>
+        <p>Reproduction à des fins commerciales interdite.</p>
+        <p>Merci de respecter le travail des auteurs en faisant un lien vers le contenu original !</p>
+    </footer>
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nemsstyve/styvenematcha/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
