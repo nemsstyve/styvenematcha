@@ -1,7 +1,7 @@
 <html lang="FR">
 
 <head>
-    <title>CV de Styve NEMATCHA</title>
+    <title>CV Styve NEMATCHA</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="cv.css">
@@ -9,7 +9,7 @@
 
 <body>
     <header>
-        <h1>CV de Styve NEMATCHA</h1>
+        <h1>CV Styve NEMATCHA</h1>
     </header>
 
     <section>
