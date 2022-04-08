@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="cv.css">
-     <link href="img/favicon.png" rel="icon">
-    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/favicon1.png" rel="icon">
+    <link href="assets/img/apple-touch-icon1.png" rel="apple-touch-icon">
 </head>
 
 <body>
