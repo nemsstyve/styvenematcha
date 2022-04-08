@@ -119,7 +119,7 @@
                 <a href="#"><img src="img/Université.jpg" alt="Logo Université de Douala"></a>
             </div>
             <div class="exp-info">
-                <h3>BTS en Physyque Et Application</h3>
+                <h3>BTS en Physique Et Application</h3>
                 <h4>2014 - 2016</h4>
             </div>
             <div class="exp-desc">
