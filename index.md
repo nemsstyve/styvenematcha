@@ -33,7 +33,7 @@
             </div>
             <div class="contact-flex">
                 <p>Adresse : </p>
-                <p>2 rue Edmond Dantès - 78280 Guyancourt</p>
+                <p>2 rue Edmond Dantès - 78280 Guyancourt, France</p>
             </div>
             <div class="contact-flex">
                 <p>Téléphone :</p>
@@ -62,7 +62,7 @@
             <div class="exp-info">
                 <h3>Techinicien Support IT</h3>
                 <h4>World Voice Group</h4>
-                <h4>Janvier 2020 - Décembre 2020</h4>
+                <h4>Février 2020 - Août 2021</h4>
             </div>
             <div class="exp-desc">
                 <p>Monter, installer et mettre en service les nouveaux matériels informatiques. Former les utilisateurs. Intervenir en assistance et réparation. Ordonnancer le déroulement des travaux. Réaliser les archivages et les sauvegardes des données.
