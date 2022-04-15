@@ -57,19 +57,21 @@
         <h2>Expériences professionnelles</h2>
         <div class="exp">
             <div class="exp-logo">
-                <a href="#"><img src="img/orange.png" alt="Logo d'Orange Cameroun"></a>
+                <a href="#"><img src="img/logo.png" alt="Logo de World Voice Group"></a>
             </div>
             <div class="exp-info">
-                <h3>Superviseur des Ventes</h3>
-                <h4>Orange Cameroun</h4>
-                <h4>Août 2016 - Novembre 2019</h4>
+                <h3>Techinicien Support IT</h3>
+                <h4>World Voice Group</h4>
+                <h4>Janvier 2020 - Décembre 2020</h4>
             </div>
             <div class="exp-desc">
-                <p>Encadrer son équipe de commercial. Prendre en charge de leur recruter, de leur former et de leur accompagner. Fixe un objectif individuel pour chaque commercial et met en place un système afin récompenser financièrement ou physiquement
-                    dans le but de motiver chaque commercial.
+                <p>Monter, installer et mettre en service les nouveaux matériels informatiques. Former les utilisateurs. Intervenir en assistance et réparation. Ordonnancer le déroulement des travaux. Réaliser les archivages et les sauvegardes des données.
+                    Suivre et mettre à jour l'information technique, économique et réglementaire. Diagnostiquer les défaillances et proposer des solutions d'amélioration Assurer un soutien technique au service commercial Suivre l'état des stocks
                 </p>
             </div>
         </div>
+
+
         <div class="exp">
             <div class="exp-logo">
                 <a href="#"><img src="img/orange.png" alt="Logo d'Orange Cameroun'"></a>
@@ -77,12 +79,28 @@
             <div class="exp-info">
                 <h3>Stagiaire Administrateur Système et Réseau</h3>
                 <h4>Orange Cameroun</h4>
-                <h4>Janvier 2020 - Octobre 2020</h4>
+                <h4>Octobre 2019 - Janvier 2020</h4>
             </div>
             <div class="exp-desc">
                 <p>Installation des postes informatiques dans l'entreprise et le support. La gestion du parc informatique. L'installation des logiciels et leur mise à jour. La sécurité Réaliser une veille technique constante pour proposer les meilleures
                     solutions. Faire évoluer le système pour le rendre toujours plus efficace et sûr. Maintenance du Parc Informatique, Assistance Utilisateurs Câblage, Configuration matériel administrable, suivre l'implantation des équipements, Formaliser
                     les besoins des utilisateurs pour améliorer le système.
+                </p>
+            </div>
+        </div>
+
+        <div class="exp">
+            <div class="exp-logo">
+                <a href="#"><img src="img/orange.png" alt="Logo d'Orange Cameroun"></a>
+            </div>
+            <div class="exp-info">
+                <h3>Superviseur des Ventes</h3>
+                <h4>Orange Cameroun</h4>
+                <h4>Août 2016 - Octobre 2019</h4>
+            </div>
+            <div class="exp-desc">
+                <p>Encadrer son équipe de commercial. Prendre en charge de leur recruter, de leur former et de leur accompagner. Fixe un objectif individuel pour chaque commercial et met en place un système afin récompenser financièrement ou physiquement
+                    dans le but de motiver chaque commercial.
                 </p>
             </div>
         </div>
