@@ -20,7 +20,7 @@
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
-            <p>Etudiant en Bachelor1 Expert Informatique et me prépare pour un BTS Services Informatiques aux Organisations spécialité Solutions d'Infrastructures Systèmes et Réseaux. Je suis passionné des TI et de sécurités informatiques. J’aime le travail d’équipe et apprécie le contact client. Les challenges professionnels garantissent ma motivation et mon énergie en entreprise. Mon aisance orale me permet de m’adapter à mon public.
+            <p>Je suis Développeur Web et Administrateur système et réseau, je prépare un BTS Services Informatiques aux Organisations spécialité Solutions d'Infrastructures Systèmes et Réseaux. Je suis passionné des TI et de sécurités informatiques, et je recherche une Alternance pour m'aider à mieux booster mes compétences tant éducatives que professionnelles. J’aime le travail d’équipe et apprécie le contact client. Les challenges professionnels garantissent ma motivation et mon énergie en entreprise. Mon aisance orale me permet de m’adapter à mon public.
             </p>
             <a href="https://drive.google.com/file/d/1CWskl-RSP2mR-r1thNMMDkHQ0cEfi5Ze/view?usp=sharing" download>Télécharger mon CV</a>
         </div>
